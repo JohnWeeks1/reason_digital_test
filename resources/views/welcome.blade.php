@@ -29,7 +29,7 @@
 
             <h2>
                 Github Repo for the code:
-                <a href="https://github.com/JohnWeeks1/reason_digital_test">Click here</a>
+                <a href="https://github.com/JohnWeeks1/reason_digital_test" target="_blank">Click here</a>
             </h2>
         </div>
     </body>
